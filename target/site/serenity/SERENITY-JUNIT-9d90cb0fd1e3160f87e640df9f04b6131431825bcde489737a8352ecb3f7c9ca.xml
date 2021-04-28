@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Create a new user by filling the fields on the registation form on &quot;https://www.utest.com/signup/personal&quot;." skipped="0" tests="1" time="22.89" timestamp="2021-04-27 08:09:29"><testcase name="process the first step of the form."/></testsuite>
